@@ -204,7 +204,7 @@ def _write_altsrc_flag_types(outfile, types):
         package altsrc
 
         import (
-            "gopkg.in/urfave/cli.v1"
+            "github.com/urfave/cli"
         )
 
         // WARNING: This file is generated!
